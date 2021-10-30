@@ -32,5 +32,5 @@ describe("Should render Post component", () => {
 
     })
 
-});
+}); 
 
