@@ -35,4 +35,4 @@ Post.defaultProps = {
   url: "#",
 };
 
-export default Post; 
+export default Post;
